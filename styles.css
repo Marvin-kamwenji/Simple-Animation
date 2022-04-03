@@ -1,0 +1,11 @@
+body{
+    background-image: url(roady.jfif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+h1{
+    text-align: center;
+    text-decoration: double;
+    text-transform: capitalize;
+}
